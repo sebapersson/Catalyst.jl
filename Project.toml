@@ -36,7 +36,6 @@ Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
 NetworkLayout = "46757867-2c16-5918-afeb-47bfcb05e46a"
 StructuralIdentifiability = "220ca800-aa68-49bb-acd8-6037fa93a544"
 
-
 [extensions]
 CatalystBifurcationKitExtension = "BifurcationKit"
 CatalystCairoMakieExtension = "CairoMakie"
@@ -61,7 +60,7 @@ LaTeXStrings = "1.3.0"
 Latexify = "0.16.6"
 MacroTools = "0.5.5"
 Makie = "0.22.1"
-ModelingToolkit = "9.69"
+ModelingToolkit = "9.69, 10"
 NetworkLayout = "0.4.7"
 Parameters = "0.12"
 Reexport = "0.2, 1.0"
