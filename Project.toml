@@ -36,7 +36,6 @@ Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
 NetworkLayout = "46757867-2c16-5918-afeb-47bfcb05e46a"
 StructuralIdentifiability = "220ca800-aa68-49bb-acd8-6037fa93a544"
 
-
 [extensions]
 CatalystBifurcationKitExtension = "BifurcationKit"
 CatalystCairoMakieExtension = "CairoMakie"
@@ -46,7 +45,7 @@ CatalystStructuralIdentifiabilityExtension = "StructuralIdentifiability"
 
 [compat]
 BifurcationKit = "0.4.4"
-CairoMakie = "0.12, 0.13"
+CairoMakie = "0.12, 0.13, 0.14"
 Combinatorics = "1.0.2"
 DataStructures = "0.18"
 DiffEqBase = "6.165.0"
